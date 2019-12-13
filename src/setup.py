@@ -75,7 +75,7 @@ setup(
       'kik==1.5.0',
       'discord.py==1.2.3',
       'botbuilder-core==4.5.0b4',
-      'botbuilder-schema==4.5.0b4',
+      'botbuilder-schema>=4.5.0b4',
       'wikipedia==1.4.0',
       'MetOffer==1.3.2',
       'APScheduler==3.6.1',
